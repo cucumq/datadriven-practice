@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/focal_terra_4944), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Above the Title](./practice/python/above-the-title) | Python | Medium | 2026-09-06 |
 | [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-05 |
 
 <!-- datadriven:index:end -->
