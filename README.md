@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/focal_terra_4944), committ
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Rolling Revenue Average](./practice/spark/rolling-revenue-average) | Spark | Hard | 2026-11-17 |
 | [7-Check Rolling Average](./practice/spark/7-check-rolling-average) | Spark | Medium | 2026-11-17 |
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-11-16 |
 | [Against the Current](./practice/python/against-the-current) | Python | Hard | 2026-10-25 |
