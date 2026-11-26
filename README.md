@@ -14,7 +14,7 @@ Scored work from [DataDriven](https://datadriven.io/u/focal_terra_4944), committ
 | [7-Check Rolling Average](./practice/sql/7-check-rolling-average) | SQL | Medium | 2026-11-16 |
 | [Against the Current](./practice/python/against-the-current) | Python | Hard | 2026-10-25 |
 | [Above the Title](./practice/python/above-the-title) | Python | Medium | 2026-09-06 |
-| [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Medium | 2026-09-05 |
+| [The Window Cleaner](./practice/python/the-window-cleaner) | Python | Easy | 2026-09-05 |
 
 <!-- datadriven:index:end -->
 
